@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 59014569747101645979548e5f632361
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -307368546378410534
+    second: "2\u6297\u6218\u65F6\u671F_0"
+  - first:
+      213: -4968252615374617511
+    second: "2\u6297\u6218\u65F6\u671F_1"
+  - first:
+      213: 5406567970771648380
+    second: "2\u6297\u6218\u65F6\u671F_2"
+  - first:
+      213: -1087056209471162005
+    second: "2\u6297\u6218\u65F6\u671F_3"
+  - first:
+      213: 3229170153696454095
+    second: "2\u6297\u6218\u65F6\u671F_4"
+  - first:
+      213: -7386624361756874221
+    second: "2\u6297\u6218\u65F6\u671F_5"
+  - first:
+      213: -1911443062950379433
+    second: "2\u6297\u6218\u65F6\u671F_6"
+  - first:
+      213: 8361046030207648225
+    second: "2\u6297\u6218\u65F6\u671F_7"
+  - first:
+      213: -5928892021159169485
+    second: "2\u6297\u6218\u65F6\u671F_8"
+  - first:
+      213: -1141667505170971142
+    second: "2\u6297\u6218\u65F6\u671F_9"
+  - first:
+      213: 6140858939585299807
+    second: stage2_1935_B_0
+  - first:
+      213: 5186006425341886283
+    second: stage2_1935_B_1
+  - first:
+      213: -3933613330794542163
+    second: stage2_1935_B_2
+  - first:
+      213: 62165454506727452
+    second: stage2_1935_B_3
+  - first:
+      213: -823930995916313471
+    second: stage2_1935_B_4
+  - first:
+      213: -608507867905112680
+    second: stage2_1935_B_5
+  - first:
+      213: -4792135890817362820
+    second: stage2_1935_B_6
+  - first:
+      213: 6118643617513685366
+    second: stage2_1935_B_7
+  - first:
+      213: 3995424558257077712
+    second: stage2_1935_B_8
+  - first:
+      213: -6479992737592208555
+    second: stage2_1935_B_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stage2_1935_B_0
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 174
+        width: 27
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5583cd7ba6b83550800000000000000
+      internalID: 6140858939585299807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage2_1935_B_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 541
+        width: 443
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f75610e5568f740800000000000000
+      internalID: 5186006425341886283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage2_1935_B_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 174
+        width: 27
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab004e448ff869c0800000000000000
+      internalID: -3933613330794542163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage2_1935_B_3
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 259
+        width: 335
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c189c29c62bdcd000800000000000000
+      internalID: 62165454506727452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage2_1935_B_4
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 446
+        width: 158
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c69f4ef1fc094f0800000000000000
+      internalID: -823930995916313471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage2_1935_B_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 328
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8954c7271552e87f0800000000000000
+      internalID: -608507867905112680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage2_1935_B_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 174
+        width: 448
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c745e601cc9ee7db0800000000000000
+      internalID: -4792135890817362820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage2_1935_B_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 328
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714d11c3f9c9e450800000000000000
+      internalID: 6118643617513685366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage2_1935_B_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 179
+        width: 69
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddf8c19779927730800000000000000
+      internalID: 3995424558257077712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage2_1935_B_9
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 178
+        width: 74
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55394b800f07216a0800000000000000
+      internalID: -6479992737592208555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 70fb9353f123226429339aeb2f016d51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
