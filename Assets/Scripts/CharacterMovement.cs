@@ -10,11 +10,24 @@ public class CharacterMovement : MonoBehaviour
 
     private float horizontalMove = 0f;
 
+    private AudioSource Audio;
+
     void Update()
     {
 
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
-
+        Audio = gameObject.GetComponent<AudioSource>();
+        if (horizontalMove != 0)
+        {
+            if (!Audio.isPlaying)
+            {
+                Audio.Play();
+            }
+        }
+        else
+        {
+            Audio.Stop();
+        }
     }
     void FixedUpdate ()
     {
