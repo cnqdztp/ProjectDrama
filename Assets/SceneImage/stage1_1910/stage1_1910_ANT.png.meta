@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 9ed64a4f5ffd43248be31f7ca483de5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8388680074371628020
+    second: stage1_1910_ANT_0
+  - first:
+      213: 1674328671222323922
+    second: stage1_1910_ANT_1
+  - first:
+      213: 7072659195853994673
+    second: stage1_1910_ANT_5
+  - first:
+      213: 1652938270290631648
+    second: stage1_1910_ANT_6
+  - first:
+      213: -3375595368946186828
+    second: stage1_1910_ANT_7
+  - first:
+      213: 6837615338319883823
+    second: stage1_1910_ANT_8
+  - first:
+      213: -1449915944581666460
+    second: stage1_1910_ANT_9
+  - first:
+      213: 2424792510352403796
+    second: stage1_1910_ANT_10
+  - first:
+      213: -1211113647255647632
+    second: stage1_1910_ANT_11
+  - first:
+      213: 8653148643297259889
+    second: stage1_1910_ANT_12
+  - first:
+      213: 3145706971531001469
+    second: stage1_1910_ANT_13
+  - first:
+      213: 7808322832646149304
+    second: stage1_1910_ANT_14
+  - first:
+      213: -9003981011080271203
+    second: stage1_1910_ANT_15
+  - first:
+      213: -5042224279217699829
+    second: stage1_1910_ANT_16
+  - first:
+      213: -8960760372068359199
+    second: stage1_1910_ANT_17
+  - first:
+      213: 1666896169454192487
+    second: stage1_1910_ANT_18
+  - first:
+      213: -6272949080459282286
+    second: stage1_1910_ANT_19
+  - first:
+      213: 9100056034213885559
+    second: stage1_1910_ANT_20
+  - first:
+      213: -5155047609733324739
+    second: stage1_1910_ANT_21
+  - first:
+      213: 1625275931968317775
+    second: stage1_1910_ANT_22
+  - first:
+      213: -1072417520058643886
+    second: stage1_1910_ANT_23
+  - first:
+      213: 9109300706832787739
+    second: stage1_1910_ANT_25
+  - first:
+      213: -3485240773824049856
+    second: stage1_1910_ANT_26
+  - first:
+      213: -4223613144929098571
+    second: stage1_1910_ANT_27
+  - first:
+      213: 6587034284678916818
+    second: stage1_1910_ANT_28
+  - first:
+      213: 7058577137261280879
+    second: stage1_1910_ANT_29
+  - first:
+      213: 1654719276156678686
+    second: stage1_1910_ANT_30
+  - first:
+      213: 4253170935075074366
+    second: stage1_1910_ANT_31
+  - first:
+      213: -2905601071537385858
+    second: stage1_1910_ANT_32
+  - first:
+      213: -3488077688928427927
+    second: stage1_1910_ANT_33
+  - first:
+      213: -8545709386522546153
+    second: stage1_1910_ANT_34
+  - first:
+      213: 659920999548418637
+    second: stage1_1910_ANT_35
+  - first:
+      213: 8368457188540950284
+    second: stage1_1910_ANT_36
+  - first:
+      213: -8757615621265220870
+    second: stage1_1910_ANT_37
+  - first:
+      213: -6273983237487275071
+    second: stage1_1910_ANT_38
+  - first:
+      213: -9172054401361595777
+    second: stage1_1910_ANT_2
+  - first:
+      213: -399644622372611450
+    second: stage1_1910_ANT_3
+  - first:
+      213: -5230460622398423809
+    second: stage1_1910_ANT_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stage1_1910_ANT_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2441
+        width: 4581
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb715f15149a6470800000000000000
+      internalID: 8388680074371628020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_1910_ANT_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1920
+        width: 4579
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da55753e096c3710800000000000000
+      internalID: 1674328671222323922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_1910_ANT_2
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 695
+        width: 984
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b84a1e1156b080800000000000000
+      internalID: -9172054401361595777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_1910_ANT_3
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 57
+        width: 1495
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ad517555d247af0800000000000000
+      internalID: -399644622372611450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_1910_ANT_4
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 129
+        width: 498
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf54ea6cba967b0800000000000000
+      internalID: -5230460622398423809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_1910_ANT_5
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 702
+        width: 215
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baf64ae012272260800000000000000
+      internalID: 7072659195853994673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d7f08a12fe5d2cc4a812afede4458530
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
