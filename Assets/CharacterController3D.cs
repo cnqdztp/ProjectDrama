@@ -17,6 +17,7 @@ public class CharacterController3D : MonoBehaviour
     private Rigidbody m_Rigidbody;
     private bool m_FacingRight = true;  // For determining which way the player is currently facing.
     private Vector3 velocity = Vector3.zero;
+    private AudioSource Audio;
     
     private void Awake()
     {
@@ -57,6 +58,7 @@ public class CharacterController3D : MonoBehaviour
             // ... flip the player.
             Flip();
         }
+        
     }
     
     private void Flip()
