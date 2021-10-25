@@ -11,7 +11,7 @@ public class WarpTriggerBehaviour : MonoBehaviour
     public Vector3 destination;
     public bool switchScene;
     public int sceneDestination;
-    private bool isWarping;
+    private bool isWarping = false, isShown = false;
     private void Awake()
     {
         text = transform.GetChild(0).gameObject.GetComponent<TextBehaviour>();
@@ -19,16 +19,16 @@ public class WarpTriggerBehaviour : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && !isShown)
         {
             text.ShowText();
+            isShown = true;
         }
     }
 
     private void OnTriggerStay(Collider other)
     {
-        Debug.Log(other);
-        if (other.CompareTag("Player") && Input.GetKey(KeyCode.E) && !isWarping)
+        if (other.CompareTag("Player") && Input.GetKey(KeyCode.E))
         {
             isWarping = true;
             if (switchScene)
