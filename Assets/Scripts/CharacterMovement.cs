@@ -14,11 +14,15 @@ public class CharacterMovement : MonoBehaviour
     private AudioSource Audio;
     private Animator animator;
 
+    public GameObject myBag;
+    private bool isOpen;
+    
     private void Awake()
     {
         Audio = gameObject.GetComponent<AudioSource>();
         animator = transform.GetChild(2).gameObject.GetComponent<Animator>();
     }
+    
 
     void Update()
     {
@@ -37,13 +41,20 @@ public class CharacterMovement : MonoBehaviour
         {
             Audio.Stop();
         }
+        openMybag();
     }
     void FixedUpdate ()
     {
         // Move our character
         characterController.Move(horizontalMove * Time.fixedDeltaTime);
     }
-    
-    
-    
+
+    void openMybag()
+    {
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            isOpen = !myBag.activeSelf;
+            myBag.SetActive(isOpen);
+        }
+    }
 }
