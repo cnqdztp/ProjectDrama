@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene1_hospital.unity
+    guid: f969123a23a174441abddff51d306bc2
+  - enabled: 1
+    path: Assets/Scene2_blackstage.unity
+    guid: bf59cfc8d14a13944a236cb31671e13b
+  - enabled: 1
+    path: Assets/Scene3_stage1998.unity
+    guid: 3faa1a49caacdd646869b317e36f9b0c
   m_configObjects: {}
