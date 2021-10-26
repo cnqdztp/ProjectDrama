@@ -11,25 +11,28 @@ public class WarpTriggerBehaviour : MonoBehaviour
     public Vector3 destination;
     public bool switchScene;
     public int sceneDestination;
-    private bool isWarping;
+    private bool isWarping = false, isShown = false;
+    private AudioSource Audio;
     private void Awake()
     {
         text = transform.GetChild(0).gameObject.GetComponent<TextBehaviour>();
+        Audio = gameObject.GetComponent<AudioSource>();
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && !isShown)
         {
             text.ShowText();
+            isShown = true;
         }
     }
 
     private void OnTriggerStay(Collider other)
     {
-        Debug.Log(other);
-        if (other.CompareTag("Player") && Input.GetKey(KeyCode.E) && !isWarping)
+        if (other.CompareTag("Player") && Input.GetKey(KeyCode.E))
         {
+            Audio.Play();
             isWarping = true;
             if (switchScene)
             {
