@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: a44aeab32b396954f80fc07c93eec627
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7958700155764214325
+    second: backstage_1998_a_1
+  - first:
+      213: -1426466564803944911
+    second: backstage_1998_a_2
+  - first:
+      213: -7838738617606380731
+    second: backstage_1998_a_3
+  - first:
+      213: 4227669247623235987
+    second: backstage_1998_a_4
+  - first:
+      213: -4267431413863719760
+    second: backstage_1998_a_6
+  - first:
+      213: -929383226378899782
+    second: backstage_1998_a_8
+  - first:
+      213: -3884219752178588437
+    second: backstage_1998_a_9
+  - first:
+      213: 7544741135172314111
+    second: backstage_1998_a_10
+  - first:
+      213: -6029326382582909274
+    second: backstage_1998_a_11
+  - first:
+      213: 7918267931121434288
+    second: backstage_1998_a_12
+  - first:
+      213: 4846719519671379733
+    second: backstage_1998_a_13
+  - first:
+      213: -1629604965238765455
+    second: backstage_1998_a_14
+  - first:
+      213: 6431241412705971217
+    second: backstage_1998_a_15
+  - first:
+      213: -5918820042308023223
+    second: backstage_1998_a_16
+  - first:
+      213: 890057844536743992
+    second: backstage_1998_a_17
+  - first:
+      213: -625430350149513491
+    second: backstage_1998_a_18
+  - first:
+      213: 6097639298719446564
+    second: backstage_1998_a_19
+  - first:
+      213: -4597195932132837182
+    second: backstage_1998_a_20
+  - first:
+      213: 2652358952444600731
+    second: backstage_1998_a_21
+  - first:
+      213: -720268913107566718
+    second: backstage_1998_a_22
+  - first:
+      213: 7438326163923317096
+    second: backstage_1998_a_23
+  - first:
+      213: 5510694183561428507
+    second: backstage_1998_a_24
+  - first:
+      213: -4633553500220132018
+    second: backstage_1998_a_25
+  - first:
+      213: 3757962216427180757
+    second: backstage_1998_a_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backstage_1998_a_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 510
+        width: 540
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5f3d510640d8190800000000000000
+      internalID: -7958700155764214325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 496
+        width: 186
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e93e0973c243ce0800000000000000
+      internalID: -1426466564803944911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_3
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 575
+        width: 580
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5436f6a32c4373390800000000000000
+      internalID: -7838738617606380731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_4
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 857
+        width: 531
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990d6418c2bbaa30800000000000000
+      internalID: 4227669247623235987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_6
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 495
+        width: 610
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc5f492db907c4c0800000000000000
+      internalID: -4267431413863719760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_8
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 543
+        width: 470
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeaa7331ea2a13f0800000000000000
+      internalID: -929383226378899782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 555
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4e6d107ba781ac0800000000000000
+      internalID: -3884219752178588437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 256
+        width: 327
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff32934b61e44b860800000000000000
+      internalID: 7544741135172314111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_11
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 84
+        width: 217
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6314b8997835ca0800000000000000
+      internalID: -6029326382582909274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_12
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 159
+        width: 351
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be3cd60bb653ed60800000000000000
+      internalID: 7918267931121434288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_13
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 151
+        width: 689
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e6ff59b1034340800000000000000
+      internalID: 4846719519671379733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 106
+        width: 5
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1780bba0bea7269e0800000000000000
+      internalID: -1629604965238765455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 16
+        width: 191
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cee1d9dfb504950800000000000000
+      internalID: 6431241412705971217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 26
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c84c0e7802cdda0800000000000000
+      internalID: -5918820042308023223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 46
+        width: 110
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389925d4ee1a5c00800000000000000
+      internalID: 890057844536743992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_18
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 145
+        width: 134
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee079309660257f0800000000000000
+      internalID: -625430350149513491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_19
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 21
+        width: 227
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42672a0b2aa2f9450800000000000000
+      internalID: 6097639298719446564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_20
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 17
+        width: 192
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8f95e18aa7330c0800000000000000
+      internalID: -4597195932132837182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_21
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a9491a621fc420800000000000000
+      internalID: 2652358952444600731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_22
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 16
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f777b5d371106f0800000000000000
+      internalID: -720268913107566718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_23
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 16
+        width: 164
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861b4247c3e3a3760800000000000000
+      internalID: 7438326163923317096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_24
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 15
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e7dfcb92be97c40800000000000000
+      internalID: 5510694183561428507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_25
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 16
+        width: 272
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e457c9324af42bfb0800000000000000
+      internalID: -4633553500220132018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backstage_1998_a_27
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 22
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25b7da9b6f62430800000000000000
+      internalID: 3757962216427180757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 40e2a70143d02014c938340370dfff55
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

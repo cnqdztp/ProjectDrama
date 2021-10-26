@@ -97,12 +97,12 @@ TextureImporter:
       name: stage1_1980_C_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 430
         y: 619
-        width: 3854
+        width: 3042
         height: 1861
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
