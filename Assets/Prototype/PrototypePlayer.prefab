@@ -70,6 +70,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterController: {fileID: 830931582207317690}
   runSpeed: 40
+  myBag: {fileID: 0}
 --- !u!136 &830931582207317688
 CapsuleCollider:
   m_ObjectHideFlags: 0
