@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -11,14 +12,22 @@ public class CharacterMovement : MonoBehaviour
     private float horizontalMove = 0f;
 
     private AudioSource Audio;
+    private Animator animator;
+
+    private void Awake()
+    {
+        Audio = gameObject.GetComponent<AudioSource>();
+        animator = transform.GetChild(2).gameObject.GetComponent<Animator>();
+    }
 
     void Update()
     {
 
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
-        Audio = gameObject.GetComponent<AudioSource>();
+        animator.SetFloat("AbsRawSpeed",Math.Abs(horizontalMove));
         if (horizontalMove != 0)
         {
+            
             if (!Audio.isPlaying)
             {
                 Audio.Play();

@@ -8,12 +8,12 @@ public class CharacterWarp : MonoBehaviour
     private Vector3 destination;
     void FadeOutPlayer()
     {
-        this.GetComponent<SpriteRenderer>().DOFade(0f, 1f);
+        this.transform.GetChild(2).GetComponent<SpriteRenderer>().DOFade(0f, 1f);
     }
 
     void FadeInPlayer()
     {
-        this.GetComponent<SpriteRenderer>().DOFade(1f, 1f);
+        this.transform.GetChild(2).GetComponent<SpriteRenderer>().DOFade(1f, 1f);
     }
 
     void ChangePostion()
