@@ -5,28 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene1_hospital.unity
     guid: f969123a23a174441abddff51d306bc2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene2_blackstage.unity
     guid: bf59cfc8d14a13944a236cb31671e13b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene3_stage1998_1.unity
     guid: 3faa1a49caacdd646869b317e36f9b0c
-  - enabled: 1
+  - enabled: 0
     path: Assets/CutScene1.unity
     guid: c61f8409d80163144b416b2d964c0e86
   - enabled: 1
     path: Assets/Scece4_stage1935.unity
     guid: ee3c9c25f2aeff141a07a30e1c189c30
-  - enabled: 1
+  - enabled: 0
     path: Assets/CutScene2.unity
     guid: f8a709de72958104fba84ead8a8cbd61
   - enabled: 1
     path: Assets/Scene5_stage1973.unity
     guid: 541e4a2c23f9dce4184858c425a51d8f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene3_stage1998_1 1.unity
     guid: d7e6be4f987e99e45a37066e4778c565
   m_configObjects: {}
