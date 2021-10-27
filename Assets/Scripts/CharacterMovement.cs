@@ -28,6 +28,7 @@ public class CharacterMovement : MonoBehaviour
     {
 
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+        animator.SetFloat("RawSpeed",horizontalMove);
         animator.SetFloat("AbsRawSpeed",Math.Abs(horizontalMove));
         if (horizontalMove != 0)
         {
