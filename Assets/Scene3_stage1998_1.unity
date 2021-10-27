@@ -9712,11 +9712,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5489254133155459553, guid: 585d22f1a9d6ab94198876cb43b47ba7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 277.78
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 5489254133155459553, guid: 585d22f1a9d6ab94198876cb43b47ba7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.31
+      value: 6.9
       objectReference: {fileID: 0}
     - target: {fileID: 5489254133155459553, guid: 585d22f1a9d6ab94198876cb43b47ba7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16557,7 +16557,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3384959835080143026, guid: 7cb3de72495099745b0312c784e37774, type: 3}
       propertyPath: m_text
-      value: "\u6309[E]\u67E5\u770B\u5934\u51A0"
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3384959835080143026, guid: 7cb3de72495099745b0312c784e37774, type: 3}
       propertyPath: m_fontSize
@@ -16571,9 +16571,13 @@ PrefabInstance:
       propertyPath: m_fontSizeBase
       value: 16
       objectReference: {fileID: 0}
+    - target: {fileID: 3384959835080143026, guid: 7cb3de72495099745b0312c784e37774, type: 3}
+      propertyPath: m_AutoSizeIterationCount
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3384959835776344978, guid: 7cb3de72495099745b0312c784e37774, type: 3}
       propertyPath: textToShow
-      value: "{fade}<wave>\u6309[E]\u67E5\u770B\u5934\u51A0</wave>"
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3384959835776344983, guid: 7cb3de72495099745b0312c784e37774, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16585,7 +16589,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3533784064008167728, guid: 7cb3de72495099745b0312c784e37774, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 73.88232
+      value: 71.77
       objectReference: {fileID: 0}
     - target: {fileID: 3533784064008167728, guid: 7cb3de72495099745b0312c784e37774, type: 3}
       propertyPath: m_LocalPosition.y
@@ -16629,7 +16633,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3533784064008167729, guid: 7cb3de72495099745b0312c784e37774, type: 3}
       propertyPath: sceneDestination
-      value: 3
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3533784064008167734, guid: 7cb3de72495099745b0312c784e37774, type: 3}
       propertyPath: m_Name
